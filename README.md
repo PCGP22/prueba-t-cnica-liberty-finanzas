@@ -1,4 +1,4 @@
-# prueba-t-cnica-liberty-finanzas
+# prueba-técnica-liberty-finanzas
 
 Hola, para correr el código y lograr que funcione
 debes abrir dos terminales, una en la carpeta client
