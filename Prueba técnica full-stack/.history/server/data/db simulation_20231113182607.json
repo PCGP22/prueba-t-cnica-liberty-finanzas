@@ -1,0 +1,189 @@
+{
+    "primas":[
+        {
+            "oficina": "San Luis Potosí",
+            "agente": "Juan Pérez",
+            "ejecutiva": "Empresa Genérica número Uno",
+            "datos": {
+                "código_de_fianza": "1234-0000",
+                "tipo_de_movimiento": "expedición",
+                "fiado": "Compañía de automóviles San Luis S.A. de C.V.",
+                "fecha de emisión": "24/05/2023",
+                "fecha de vencimiento": "06/06/2023",
+                "importe": 500.15
+            }
+        },
+        {
+            "oficina": "Querétaro",
+            "agente": "Gabriela López",
+            "ejecutiva": "Empresa Genérica número Dos",
+            "datos": {
+                "código_de_fianza": "1243-0000",
+                "tipo_de_movimiento": "amplificación",
+                "fiado": "Empresani S.A. de C.V.",
+                "fecha de emisión": "30/07/2023",
+                "fecha de vencimiento": "2/09/2023",
+                "importe": 1000.75
+            }
+        },
+        {
+            "oficina": "Estado de México",
+            "agente": "Gabriela López",
+            "ejecutiva": "Empresa Genérica número Dos",
+            "datos": {
+                "código_de_fianza": "1244-0000",
+                "tipo_de_movimiento": "reducción",
+                "fiado": "Patito.co S.A. de C.V.",
+                "fecha de emisión": "20/07/2023",
+                "fecha de vencimiento": "27/08/2023",
+                "importe": 600.00
+
+            }
+        },
+        {
+            "oficina": "Jalisco",
+            "agente": "Juan Pérez",
+            "ejecutiva": "Empresa Genérica número Uno",
+            "datos": {
+                "código_de_fianza": "1238-0000",
+                "tipo_de_movimiento": "amplificación",
+                "fiado": "AutoSeguros S.A. de C.V.",
+                "fecha de emisión": "15/05/2023",
+                "fecha de vencimiento": "20/07/2023",
+                "importe": 400.46
+
+            }
+        },
+        {
+            "oficina": "Yucatán",
+            "agente": "Federico Rodríguez",
+            "ejecutiva": "Empresa Genérica número Tres",
+            "datos": {
+                "código_de_fianza": "1222-0000",
+                "tipo_de_movimiento": "expedición",
+                "fiado": "Ballenatos S.A. de C.V.",
+                "fecha de emisión": "13/03/2023",
+                "fecha de vencimiento": "20/06/2023",
+                "importe": 200.50
+            }
+        },
+        {
+            "oficina": "Tabasco",
+            "agente": "Federico Rodríguez",
+            "ejecutiva": "Empresa Genérica número Tres",
+            "datos": {
+                "código_de_fianza": "1228-0000",
+                "tipo_de_movimiento": "expedición",
+                "fiado": "Restaurante la selva S.A. de C.V.",
+                "fecha de emisión": "24/04/2023",
+                "fecha de vencimiento": "15/06/2023",
+                "importe": 100.62
+            }
+        },
+        {
+            "oficina": "Estado de México",
+            "agente": "Juan Pérez",
+            "ejecutiva": "Empresa Genérica número Uno",
+            "datos": {
+                "código_de_fianza": "1242-0000",
+                "tipo_de_movimiento": "reducción",
+                "fiado": "Papelería La Goma S.A. de C.V.",
+                "fecha de emisión": "15/05/2023",
+                "fecha de vencimiento": "20/07/2023",
+                "importe": 620.30
+            }
+        },
+        {
+            "oficina": "Querétaro",
+            "agente": "Gabriela López",
+            "ejecutiva": "Empresa Genérica número Dos",
+            "datos": {
+                "código_de_fianza": "1251-0000",
+                "tipo_de_movimiento": "amplificación",
+                "fiado": "Aseguradora Tecolote S.A. de C.V.",
+                "fecha de emisión": "18/07/2023",
+                "fecha de vencimiento": "20/10/2023",
+                "importe": 1020.90
+            }
+        },
+        {
+            "oficina": "San Luis Potosí",
+            "agente": "Gabriela López",
+            "ejecutiva": "Empresa Genérica número Dos",
+            "datos": {
+                "código_de_fianza": "1258-0000",
+                "tipo_de_movimiento": "expedición",
+                "fiado": "La Potosina S.A. de C.V.",
+                "fecha de emisión": "18/07/2023",
+                "fecha de vencimiento": "20/10/2023",
+                "importe": 1020.90
+            }
+        },
+        {
+            "oficina": "Tlaxcala",
+            "agente": "Juan Pérez",
+            "ejecutiva": "Empresa Genérica número Uno",
+            "datos": {
+                "código_de_fianza": "1240-0000",
+                "tipo_de_movimiento": "reducción",
+                "fiado": "Tlaxco S.A. de C.V.",
+                "fecha de emisión": "20/07/2023",
+                "fecha de vencimiento": "27/09/2023",
+                "importe": 100.15
+            }
+        },
+        {
+            "oficina": "Tlaxcala",
+            "agente": "Juan Pérez",
+            "ejecutiva": "Empresa Genérica número Uno",
+            "datos": {
+                "código_de_fianza": "1241-0000",
+                "tipo_de_movimiento": "amplificación",
+                "fiado": "Tienda Los Abarrotes S.A. de C.V.",
+                "fecha de emisión": "20/09/2023",
+                "fecha de vencimiento": "27/11/2023",
+                "importe": 150.62
+            }
+        },
+        {
+            "oficina": "Yucatán",
+            "agente": "Federico Rodríguez",
+            "ejecutiva": "Empresa Genérica número Tres",
+            "datos": {
+                "código_de_fianza": "1239-0000",
+                "tipo_de_movimiento": "expedición",
+                "fiado": "Tienda Los Abarrotes S.A. de C.V.",
+                "fecha de emisión": "20/09/2023",
+                "fecha de vencimiento": "27/11/2023",
+                "importe": 240.82
+            }
+        },
+        {
+            "oficina": "Jalisco",
+            "agente": "Juan Pérez",
+            "ejecutiva": "Empresa Genérica número Uno",
+            "datos": {
+                "código_de_fianza": "1237-0000",
+                "tipo_de_movimiento": "expedición",
+                "fiado": "La Mexicanita S.A. de C.V.",
+                "fecha de emisión": "20/09/2023",
+                "fecha de vencimiento": "27/11/2023",
+                "importe": 240.82
+            }
+        },
+        {
+            "oficina": "San Luis Potosí",
+            "agente": "Juan Pérez",
+            "ejecutiva": "Empresa Genérica número Uno",
+            "datos": {
+                "código_de_fianza": "1255-0000",
+                "tipo_de_movimiento": "expedición",
+                "fiado": "Escuela Francisco I Madero S.A. de C.V.",
+                "fecha de emisión": "15/10/2023",
+                "fecha de vencimiento": "30/12/2023",
+                "importe": 300.02
+            }
+        }
+    ]
+
+}

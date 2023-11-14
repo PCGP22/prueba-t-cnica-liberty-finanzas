@@ -1,0 +1,36 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  --background-color: #f2f2f1;
+  --darkest-blue: #22305a;
+  --blue: #1a4b94;
+  --light-blue: #577dae;
+  --lightest-blue: #9fbde4;
+  --status-red: #de7878;
+  --status-yellow: #f6c476;
+  --status-green: #8fc475;
+  --icon-red: #b93d3d;
+  --icon-green: #6cb85d;
+  --text-blue: #3a689d;
+  --text-red:  #af2e2c;
+  --box-shadow: solid black 8px 8px 16px;
+}
+body, h1{
+  margin: 0;
+  padding: 0;
+}
+body, header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1{
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 0 0 25px 25px;
+  background-color: var(--light-blue);
+  color:white;
+  text-align: center;
+  box-shadow: solid black 8px 8px 16px;
+}
